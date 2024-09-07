@@ -35,9 +35,10 @@
 
 <div>
     <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=garima9876&show_icons=true&locale=en&layout=compact" alt="garima9876" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garima9876&" alt="garima9876" /></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=garima9876&show_icons=true&locale=en" alt="garima9876" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=garima9876&show_icons=true&locale=en" alt="garima9876" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=garima9876&" alt="garima9876" /></p>
 </div>
