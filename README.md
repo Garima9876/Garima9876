@@ -39,5 +39,5 @@
 </div>
 
 <div align="center">
-    <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=garima9876&show_icons=true&locale=en&layout=donut" alt="garima9876" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garima9876&show_icons=true&locale=en&layout=donut" alt="garima9876" />
 </div>
