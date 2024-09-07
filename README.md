@@ -33,7 +33,7 @@
 
 <hr/>
 
-<div align="center">
+<div>
     <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=garima9876&show_icons=true&locale=en&layout=compact" alt="garima9876" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=garima9876&" alt="garima9876" /></p>
 </div>
