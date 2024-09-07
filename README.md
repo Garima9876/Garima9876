@@ -34,8 +34,8 @@
 <hr/>
 
 <div>
-    <img align="left" height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=garima9876&show_icons=true&locale=en&layout=compact" alt="garima9876" />
-    <img src="https://github-readme-stats.vercel.app/api?username=garima9876&show_icons=true&locale=en" alt="garima9876" />
+    <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=garima9876&show_icons=true&locale=en&hide_progress=true" alt="garima9876" />
+    <img src="https://github-readme-stats.vercel.app/api?username=garima9876&show_icons=true&hide=contribs,prs" alt="garima9876" />
 </div>
 
 <div align="center">
